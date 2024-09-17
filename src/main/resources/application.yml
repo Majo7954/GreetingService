@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: demo
+server:
+  port: 8080
+
+greeting:
+  message:
+    en: "Ask yourself if what you're doing today is getting you closer to where you want to be tomorrow."
+    es: "Pregúntate si lo que estás haciendo hoy te acerca al lugar en el que quieres estar mañana."
+
